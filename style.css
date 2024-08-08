@@ -1,0 +1,114 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #F1F2F4;
+}
+nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 249, 239);
+    padding: 10px;
+}
+.Brand{
+ 
+    display: flex;
+
+}
+.home{
+    margin: 10px;
+}
+.home1{
+    display: flex;
+    margin: 10px;
+}
+.buttons{
+    display: flex;
+}
+.buttons1{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+header{
+    background-color: rgb(228, 228, 228);
+    width: 1400px;
+    height: 40px;
+}
+
+.btn2{
+    background-color: orange;
+    color: white;
+    height: 35px;
+    border-radius: 5px;
+}
+header .row{
+    display: flex;
+}
+
+.col-6{
+display: flex;
+}
+.stn1{
+    background-image: url(./testpic1.jpeg);
+    height: 700px;
+    background-size: cover;
+}
+.head1{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.stn2{
+    background-color: rgb(228, 228, 228);
+    text-align: center;
+    padding: 100px;
+}
+.stn2 p{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.fourimg{
+    display: flex;
+    width: 500px;
+    background-color: rgb(228, 228, 228);
+}
+.one, .two, .three, .four{
+    
+    border: 10px;
+    
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.stn31{
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+
+.stnimg{
+    border-radius: 300px;
+} 
+.stn3 a{
+    justify-content: space-between;
+    color: orange;
+}
+.stn4, .stn6{
+    height: 500px;
+    background-color: rgb(228, 228, 228);
+}
+
+.stn5{
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+    height: 300px;
+    background-color: rgb(224, 180, 46);
+}
+
